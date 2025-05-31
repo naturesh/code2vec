@@ -4,3 +4,4 @@
 
 colab/test/*
 colab/train/*
+colab/model.pth
