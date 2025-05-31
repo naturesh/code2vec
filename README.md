@@ -45,7 +45,7 @@
 ### **학습 방법**
 
 - dataset/train.ipynb 의 REPOSITORIES 에 학습할 레포지토리를 리스트로 추가합니다.
-- dataset/test.ipynb 의 REPOSITORIES 에 테스트할
+- dataset/test.ipynb 의 REPOSITORIES 에 테스트할 레포지토리를 리스트로 추가합니다.
 
 - colab 파일 전체를 코랩에 올려 colab/train.ipynb, colab/evaluation.ipynb 을 차례로 진행합니다
 
