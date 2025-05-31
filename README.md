@@ -77,7 +77,7 @@ public class UserManager {
     }
 }
 
-// 정규화된 코드
+// 마스킹된 코드
 public class v9V2 {
     private v5V1 v7V1;
     
